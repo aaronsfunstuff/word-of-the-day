@@ -1,5 +1,5 @@
 const words = [
-    {
+ {
         word: "Serendipity",
         definition: "The occurrence of events by chance in a happy or beneficial way.",
         example: "Meeting her was pure serendipity.",
@@ -58,6 +58,120 @@ const words = [
         definition: "Denoting a period of time in the past that was idyllically happy and peaceful.",
         example: "The halcyon days of youth are often remembered fondly.",
         audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/halcyon--_us_1.mp3"
+    },
+    {
+        word: "Lethargic",
+        definition: "Affected by lethargy; sluggish and apathetic.",
+        example: "The hot weather made everyone feel lethargic.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/lethargic--_us_1.mp3"
+    },
+    {
+        word: "Ubiquitous",
+        definition: "Present, appearing, or found everywhere.",
+        example: "The company's logo is now ubiquitous in advertisements.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/ubiquitous--_us_1.mp3"
+    },
+    {
+        word: "Aesthetic",
+        definition: "Concerned with beauty or the appreciation of beauty.",
+        example: "The artist has an aesthetic sense in all her works.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/aesthetic--_us_1.mp3"
+    },
+    {
+        word: "Enigma",
+        definition: "A person or thing that is mysterious, puzzling, or difficult to understand.",
+        example: "The case remains an enigma to investigators.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/enigma--_us_1.mp3"
+    },
+    {
+        word: "Plethora",
+        definition: "A large or excessive amount of something.",
+        example: "There was a plethora of options available at the store.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/plethora--_us_1.mp3"
+    },
+    {
+        word: "Ebullient",
+        definition: "Cheerful and full of energy.",
+        example: "Her ebullient personality made everyone smile.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/ebullient--_us_1.mp3"
+    },
+    {
+        word: "Mellifluous",
+        definition: "Sweet or musical; pleasant to hear.",
+        example: "Her mellifluous voice charmed everyone.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/mellifluous--_us_1.mp3"
+    },
+    {
+        word: "Ephemeral",
+        definition: "Lasting for a very short time.",
+        example: "The beauty of the sunset was ephemeral.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/ephemeral--_us_1.mp3"
+    },
+    {
+        word: "Lethargic",
+        definition: "Affected by lethargy; sluggish and apathetic.",
+        example: "The hot weather made everyone feel lethargic.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/lethargic--_us_1.mp3"
+    },
+    {
+        word: "Quintessential",
+        definition: "Representing the most perfect or typical example of a quality or class.",
+        example: "He was the quintessential gentleman.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/quintessential--_us_1.mp3"
+    },
+    {
+        word: "Gossamer",
+        definition: "Used to refer to something very light, thin, and insubstantial or delicate.",
+        example: "The gossamer wings of a butterfly are truly delicate.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/gossamer--_us_1.mp3"
+    },
+    {
+        word: "Benevolent",
+        definition: "Well meaning and kindly.",
+        example: "She was a benevolent old lady who always helped others.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/benevolent--_us_1.mp3"
+    },
+    {
+        word: "Ineffable",
+        definition: "Too great or extreme to be expressed or described in words.",
+        example: "The beauty of the sunset was ineffable.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/ineffable--_us_1.mp3"
+    },
+    {
+        word: "Serendipity",
+        definition: "The occurrence of events by chance in a happy or beneficial way.",
+        example: "Meeting her was pure serendipity.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/serendipity--_us_1.mp3"
+    },
+    {
+        word: "Evanescent",
+        definition: "Soon passing out of sight, memory, or existence; quickly fading or disappearing.",
+        example: "The evanescent moments of childhood are precious.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/evanescent--_us_1.mp3"
+    },
+    {
+        word: "Luminous",
+        definition: "Emitting or reflecting light, glowing; illuminating.",
+        example: "The luminous moon lit up the night sky.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/luminous--_us_1.mp3"
+    },
+    {
+        word: "Petrichor",
+        definition: "The pleasant, earthy smell after rain.",
+        example: "The petrichor filled the air after the summer storm.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/petrichor--_us_1.mp3"
+    },
+    {
+        word: "Ubiquitous",
+        definition: "Present, appearing, or found everywhere.",
+        example: "The company's logo is now ubiquitous in advertisements.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/ubiquitous--_us_1.mp3"
+    },
+    {
+        word: "Zenith",
+        definition: "The time at which something is most powerful or successful.",
+        example: "The sun was at its zenith in the sky.",
+        audio: "https://ssl.gstatic.com/dictionary/static/sounds/oxford/zenith--_us_1.mp3"
     }
 ];
 
