@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fce4ec; /* Pastel pink */
+}
+
+.container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #4a148c; /* Deep purple */
+}
+
+#word-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #e1bee7; /* Pastel purple */
+    border-radius: 10px;
+}
+
+#word {
+    margin: 0;
+    color: #4a148c; /* Deep purple */
+}
+
+#definition, #example {
+    margin: 10px 0;
+    color: #4a148c; /* Deep purple */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffccbc; /* Pastel orange */
+    color: #4a148c; /* Deep purple */
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ffab91; /* Slightly darker pastel orange */
+}
+
+button:focus {
+    outline: none;
+}
+
+#audio-button {
+    background-color: #b39ddb; /* Pastel purple */
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+#audio-button:hover {
+    background-color: #9575cd; /* Slightly darker pastel purple */
+}
